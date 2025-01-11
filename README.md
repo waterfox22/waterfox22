@@ -1,8 +1,8 @@
 <p align="center"> <img src="https://github.com/waterfox22/waterfox22/assets/111059338/01eeb14e-9255-4a36-9672-036bb1161160" width="1350" /> </p>
 
 
-<h1 align="center">Welcome to my page ❤️ My name is Roman</h1>
-<h3 align="center">Junior Python backend developer from Russia</h3>
+<h1 align="center">python/java dev</h1>
+<h3 align="center">russia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=waterfox22&label=Profile%20views&color=0e75b6&style=flat" alt="waterfox22" /> </p>
 
